@@ -1,18 +1,16 @@
 # -NYTimes-Fox-News-Climate-Change-Topic-Modelling-BERTopic
 
 
-[View Climate Bar](https://StephenJudeD.github.io/NYTimes-Fox-News-Climate-Change-Topic-Modelling-BERTopic/html_images/climate_bar.html)
-
-
-/html_images/climate_bar.html
-/html_images/extreme_weather.html
-/html_images/foxnews_barchart.html
-/html_images/foxnews_dtm.html
-/html_images/foxnews_dtm_documents.html
-/html_images/foxnews_heatmap.html
-/html_images/foxnews_topics.html
-/html_images/nytimes_barchart.html
-/html_images/nytimes_dtm.html
-/html_images/nytimes_dtm_documents.html
-/html_images/nytimes_heatmap.html
-/html_images/nytimes_topics.html
+![Description 1](./html_images/bar.png)
+![Description 2](./html_images/ex1_weather.png)
+![Description 3](./html_images/ex_weather.png)
+![Description 4](./html_images/foxnews_bar.png)
+![Description 5](./html_images/foxnews_doc.png)
+![Description 6](./html_images/foxnews_dtm.png)
+![Description 7](./html_images/foxnews_heatmap.png)
+![Description 8](./html_images/hytimes_heatmap.png)
+![Description 9](./html_images/intertopic_fox.png)
+![Description 10](./html_images/intertopic_nytimes.png)
+![Description 11](./html_images/nytimes_bar.png)
+![Description 12](./html_images/nytimes_doc.png)
+![Description 13](./html_images/nytimes_dtm.png)
