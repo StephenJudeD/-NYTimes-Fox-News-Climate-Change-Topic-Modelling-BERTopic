@@ -11,8 +11,6 @@ It filters and counts climate change-related articles, comparing the proportion 
 ## Extreme Weather Visualization
 Looking at cases where the name entity is extreme weather.
 
-![Extreme Weather 1](./images_png/ex1_weather.png)
----
 ![Extreme Weather 2](./images_png/ex_weather.png)
 
 ## Bertopic 
