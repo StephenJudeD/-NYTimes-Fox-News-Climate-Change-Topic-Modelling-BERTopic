@@ -1,7 +1,13 @@
 # -NYTimes-Fox-News-Climate-Change-Topic-Modelling-BERTopic
 
+## Dataset & Preparation
+The Dataset includes articles from the Nytimes & Fox News over a one year period, and studies and contrasts them based on the use of Climate Change Articles. It details the process of identifying and counting articles related to climate change from NYTimes and Fox News, using specific climate-related terms and a function to determine if an article is related to climate change. This includes filtering duplicates, selecting English language articles, merging title and body columns, and creating a new column for the source URI.
 
-- Data Preparation: The notebook includes code to mount Google Drive, load data from JSON files, and preprocess the data by removing duplicates, filtering for English language, and merging relevant columns.
+## Proportion Calculation
+It calculates the proportion of climate change articles to total articles by source, resulting in percentages for both NYTimes and Fox News.
+
+
+
 - Climate Article Analysis: It filters and counts climate change-related articles, comparing the proportion of such articles to the total number of articles over time.
 ![Bar](./images_png/bar.png)
 
