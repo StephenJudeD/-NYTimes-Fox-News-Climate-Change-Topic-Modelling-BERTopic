@@ -17,18 +17,19 @@ Looking at cases where the name entity is extreme weather.
 
 ## Bertopic
 
+### Topics over time
 ![NYTimes DTM](./images_png/nytimes_dtm.png)
 ![Fox News DTM](./images_png/foxnews_dtm.png)
----
+### Intertopic Distribution
 ![InterTopic NYTimes](./images_png/intertopic_nytimes.png)
 ![InterTopic Fox](./images_png/intertopic_fox.png)
----
+### Bar Chart
 ![NYTimes Bar](./images_png/nytimes_bar.png)
 ![Fox News Bar](./images_png/foxnews_bar.png)
----
+### Heatmap
 ![NYTimes Heatmap](./images_png/nytimes_heatmap.png)
 ![Fox News Heatmap](./images_png/foxnews_heatmap.png)
----
+### Documents
 ![NYTimes Doc](./images_png/nytimes_doc.png)
 ![Fox News Doc](./images_png/foxnews_doc.png)
 ---
