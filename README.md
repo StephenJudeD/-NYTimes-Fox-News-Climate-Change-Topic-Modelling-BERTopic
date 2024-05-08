@@ -15,7 +15,7 @@ Looking at cases where the name entity is extreme weather.
 ---
 ![Extreme Weather 2](./images_png/ex_weather.png)
 
-## Bertopic
+## Bertopic (Visulisaitons are interactive, below is a sample, please go to the notbook and open in colab)
 
 ### Topics over time
 ![NYTimes DTM](./images_png/nytimes_dtm.png)
