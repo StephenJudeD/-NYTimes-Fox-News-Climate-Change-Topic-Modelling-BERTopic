@@ -1,6 +1,18 @@
 # -NYTimes-Fox-News-Climate-Change-Topic-Modelling-BERTopic
 
 
+- Data Preparation: The notebook includes code to mount Google Drive, load data from JSON files, and preprocess the data by removing duplicates, filtering for English language, and merging relevant columns.
+- Climate Article Analysis: It filters and counts climate change-related articles, comparing the proportion of such articles to the total number of articles over time.
+![Bar](./images_png/bar.png)
+
+![Extreme Weather 1](./images_png/ex1_weather.png)
+![Extreme Weather 2](./images_png/ex_weather.png)
+
+- Visualization: The notebook contains code to create interactive bar charts and line plots using Plotly to visualize the distribution of climate change articles by news outlet and over time.
+- Topic Modeling: It demonstrates the use of BERTopic for topic modeling, including the initialization of the SentenceTransformer model, creation of vectorized text, and visualization of topics over time.
+
+
+
 ![Bar](./images_png/bar.png)
 ![Extreme Weather 1](./images_png/ex1_weather.png)
 ![Extreme Weather 2](./images_png/ex_weather.png)
